@@ -54,7 +54,7 @@ Desenvolvido por **Felipe Sobenko**, em transição de carreira para a área da 
 ## 💡 Demonstração
 
 Você pode visualizar o projeto acessando o GitHub Pages:  
-👉 _[em breve, insira aqui o link se publicar com GitHub Pages]_
+👉 _[https://lipaosbk.github.io/projeto-nike/]_
 
 ---
 
